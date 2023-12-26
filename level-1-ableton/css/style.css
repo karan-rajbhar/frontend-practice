@@ -1,0 +1,29 @@
+.header{
+    background-color: rgb(243, 243, 243);
+    color: black;
+    font: 1em sans-serif;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+}
+
+.left-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.right-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+li{
+    list-style-type: none;
+    padding: 0 1em;
+}
