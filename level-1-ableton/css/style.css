@@ -1,5 +1,4 @@
 .header{
-    background-color: rgb(243, 243, 243);
     color: black;
     font: 1em sans-serif;
 }
@@ -32,4 +31,10 @@ li{
 a{
     text-decoration: none;
     color: black;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #fff;
 }
