@@ -38,3 +38,13 @@ body{
     padding: 0;
     background: #fff;
 }
+
+.footer{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-row{
+    display: flex;
+    flex-direction: row;
+}
